@@ -1,0 +1,19 @@
+
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cabecalho{
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: dimgray;
+}
+footer{
+    margin-top: 60px;
+    color: dimgray;
+}
